@@ -22,7 +22,7 @@ git push
 git status
 ```
 
-# Hello-World...! I learnt git from Open Hack Day Sri Lanka.
+# Hello-World...! I learned git from Open Hack Day Sri Lanka.
 
 - John Doe
 - codeSmart2307
